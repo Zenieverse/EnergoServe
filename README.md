@@ -1,9 +1,7 @@
 # EnergoServe
 A digital platform delivering Energy as a Service — enabling users to subscribe, monitor, and manage their clean energy plans (solar, backup, battery, etc.) through a unified web and mobile experience.
 
-
-
-
+https://poe.com/EnergoServe
 
 ⚡ Problem Statement — EnergoServe: Digital Energy-as-a-Service Platform
 As the world transitions toward sustainable and decentralized energy systems, millions of households and small businesses continue to face three persistent challenges:
