@@ -26,7 +26,7 @@ EnerWise is a full-stack IoT-enabled platform powered by AI, cloud-native infras
 * Energy Equity: 
 * Community Resilience: 
 * Empowerment Through Transparency:
-* 
+  
 💡 4. Technological & Industry Impact
 * Digital Transformation of Utilities: 
 * IoT and Smart Grid Integration: 
